@@ -1,0 +1,331 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftp://ftp.ng.tn" ftp_rootfolder="//shippi.ng.tn/htdocs/" exportTarget="FTP" domain="shippi.ng.tn" resolutions="1x" timestamp="1524583308560">
+  <folder name="css">
+    <file name="site_global.css" crc="3914105406"/>
+    <file name="master_register.css" crc="418482879" ref="register-as-a-member:registration-as-shipper:registration-as-transporter"/>
+    <file name="nomq_preview_master_register.css" crc="3824530138" ref="register-as-a-member:registration-as-shipper:registration-as-transporter"/>
+    <file name="master_dash_t.css" crc="363618168" ref="account-settings:view-transaction:dashboard_t:get-quotes:view-quotes"/>
+    <file name="nomq_preview_master_dash_t.css" crc="3824530138" ref="account-settings:view-transaction:dashboard_t:get-quotes:view-quotes"/>
+    <file name="master_dash_c.css" crc="3998096494" ref="view-transactions:profile-settings:dashboard_c:pay-your-driver:add-shipment:delivery-status:view-shipments"/>
+    <file name="nomq_preview_master_dash_c.css" crc="3824530138" ref="view-transactions:profile-settings:dashboard_c:pay-your-driver:add-shipment:delivery-status:view-shipments"/>
+    <file name="master_noac-master.css" crc="4189321205" ref="index:register-as-transporter:register-as-shipper:how-it-works:about:track"/>
+    <file name="nomq_preview_master_noac-master.css" crc="12393390" ref="index:register-as-transporter:register-as-shipper:how-it-works:about:track"/>
+    <file name="master_profile.css" crc="4216526930" ref="account-settings:view-transaction:view-transactions:profile-settings:dashboard_c:pay-your-driver:dashboard_t:add-shipment:get-quotes:delivery-status:view-quotes:view-shipments"/>
+    <file name="nomq_preview_master_profile.css" crc="3824530138" ref="account-settings:view-transaction:view-transactions:profile-settings:dashboard_c:pay-your-driver:dashboard_t:add-shipment:get-quotes:delivery-status:view-quotes:view-shipments"/>
+    <file name="quote-rejected.css" crc="270349510" ref="quote-rejected"/>
+    <file name="account-settings.css" crc="421899761" ref="account-settings"/>
+    <file name="nomq_account-settings.css" crc="3824530138" ref="account-settings"/>
+    <file name="index.css" crc="340765280" ref="index"/>
+    <file name="iefonts_index.css" crc="4007015240" ref="index"/>
+    <file name="feedback-recorded_.css" crc="536313222" ref="feedback-recorded!"/>
+    <file name="view-transaction.css" crc="244365250" ref="view-transaction"/>
+    <file name="view-transactions.css" crc="3869445548" ref="view-transactions"/>
+    <file name="profile-settings.css" crc="131176201" ref="profile-settings"/>
+    <file name="nomq_profile-settings.css" crc="3824530138" ref="profile-settings"/>
+    <file name="dashboard_c.css" crc="123454454" ref="dashboard_c"/>
+    <file name="nomq_dashboard_c.css" crc="3824530138" ref="dashboard_c"/>
+    <file name="transaction-failed.css" crc="307724358" ref="transaction-failed"/>
+    <file name="payment-gateway.css" crc="4107802079" ref="payment-gateway"/>
+    <file name="nomq_payment-gateway.css" crc="433285506" ref="payment-gateway"/>
+    <file name="pay-your-driver.css" crc="18313751" ref="pay-your-driver"/>
+    <file name="delivery-failed.css" crc="325708577" ref="delivery-failed"/>
+    <file name="shipments-summary.css" crc="4007864397" ref="shipments-summary"/>
+    <file name="payments.css" crc="6215776" ref="payments"/>
+    <file name="delivery-complete.css" crc="393289262" ref="delivery-complete"/>
+    <file name="dashboard_t.css" crc="310794343" ref="dashboard_t"/>
+    <file name="add-shipment.css" crc="4194741719" ref="add-shipment"/>
+    <file name="iefonts_add-shipment.css" crc="3951784020" ref="add-shipment"/>
+    <file name="feedback-for-your-driver.css" crc="4068792940" ref="feedback-for-your-driver"/>
+    <file name="register-as-a-member.css" crc="61952442" ref="register-as-a-member"/>
+    <file name="nomq_register-as-a-member.css" crc="3824530138" ref="register-as-a-member"/>
+    <file name="get-quotes.css" crc="106195639" ref="get-quotes"/>
+    <file name="iefonts_get-quotes.css" crc="3944126845" ref="get-quotes"/>
+    <file name="tracking-your-consignment.css" crc="69153899" ref="tracking-your-consignment"/>
+    <file name="delivery-status.css" crc="3869445548" ref="delivery-status"/>
+    <file name="registration-as-shipper.css" crc="174609772" ref="registration-as-shipper"/>
+    <file name="nomq_registration-as-shipper.css" crc="4071461992" ref="registration-as-shipper"/>
+    <file name="register-as-transporter.css" crc="369164886" ref="register-as-transporter"/>
+    <file name="nomq_register-as-transporter.css" crc="141603708" ref="register-as-transporter"/>
+    <file name="iefonts_register-as-transporter.css" crc="69228766" ref="register-as-transporter"/>
+    <file name="registration-as-transporter.css" crc="4179817185" ref="registration-as-transporter"/>
+    <file name="nomq_registration-as-transporter.css" crc="3824530138" ref="registration-as-transporter"/>
+    <file name="login.css" crc="492185209" ref="login"/>
+    <file name="nomq_login.css" crc="236170099" ref="login"/>
+    <file name="iefonts_login.css" crc="4042308556" ref="login"/>
+    <file name="register-as-shipper.css" crc="3892982014" ref="register-as-shipper"/>
+    <file name="iefonts_register-as-shipper.css" crc="153608833" ref="register-as-shipper"/>
+    <file name="payment-failed.css" crc="81593339" ref="payment-failed"/>
+    <file name="feedback-website.css" crc="4270957212" ref="feedback-website"/>
+    <file name="how-it-works.css" crc="97411272" ref="how-it-works"/>
+    <file name="nomq_how-it-works.css" crc="3824530138" ref="how-it-works"/>
+    <file name="iefonts_how-it-works.css" crc="3897301944" ref="how-it-works"/>
+    <file name="quotes-cart.css" crc="4220532889" ref="quotes-cart"/>
+    <file name="payment-success.css" crc="3882624458" ref="payment-success"/>
+    <file name="about.css" crc="72830869" ref="about"/>
+    <file name="track.css" crc="132177817" ref="track"/>
+    <file name="iefonts_track.css" crc="4145383175" ref="track"/>
+    <file name="view-quotes.css" crc="4114207350" ref="view-quotes"/>
+    <file name="nomq_view-quotes.css" crc="3824530138" ref="view-quotes"/>
+    <file name="iefonts_view-quotes.css" crc="3798980650" ref="view-quotes"/>
+    <file name="payment-summary.css" crc="3880065407" ref="payment-summary"/>
+    <file name="view-shipments.css" crc="1030403" ref="view-shipments"/>
+    <file name="nomq_view-shipments.css" crc="3824530138" ref="view-shipments"/>
+    <file name="iefonts_view-shipments.css" crc="390821585" ref="view-shipments"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:quotes-cart:registration-as-shipper:registration-as-transporter:dashboard_t:payments:pay-your-driver:profile-settings:view-transaction:account-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="museutils.js" crc="4148063285" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:quotes-cart:registration-as-shipper:registration-as-transporter:dashboard_t:payments:pay-your-driver:profile-settings:view-transaction:account-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:quotes-cart:registration-as-shipper:registration-as-transporter:dashboard_t:payments:pay-your-driver:profile-settings:view-transaction:account-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="museconfig.js" crc="172512987" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:quotes-cart:registration-as-shipper:registration-as-transporter:dashboard_t:payments:pay-your-driver:profile-settings:view-transaction:account-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:about:how-it-works:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:dashboard_t:pay-your-driver:profile-settings:view-transaction:account-settings:delivery-status:view-transactions"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:add-shipment:view-shipments:quotes-cart:registration-as-shipper:registration-as-transporter:payments:pay-your-driver:profile-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="webpro.js" crc="3986320349" ref="index:dashboard_c:get-quotes:add-shipment:view-shipments:view-quotes:dashboard_t:pay-your-driver:profile-settings:view-transaction:account-settings:payment-gateway:delivery-status:view-transactions"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:dashboard_c:get-quotes:add-shipment:dashboard_t"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:dashboard_c:get-quotes:add-shipment:dashboard_t"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:dashboard_c:get-quotes:add-shipment:dashboard_t"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:quotes-cart:registration-as-shipper:registration-as-transporter:dashboard_t:payments:pay-your-driver:profile-settings:view-transaction:account-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="require.js" crc="4159430777" ref="index:about:how-it-works:login:register-as-a-member:dashboard_c:track:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:quotes-cart:registration-as-shipper:registration-as-transporter:dashboard_t:payments:pay-your-driver:profile-settings:view-transaction:account-settings:payment-summary:payment-success:feedback-website:feedback-for-your-driver:delivery-complete:shipments-summary:payment-gateway:transaction-failed:feedback-recorded!:delivery-status:delivery-failed:view-transactions:quote-rejected:payment-failed:tracking-your-consignment"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="login:register-as-transporter:registration-as-shipper:payment-gateway"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="dashboard_c:get-quotes:add-shipment:view-shipments:view-quotes:dashboard_t:pay-your-driver:profile-settings:view-transaction:account-settings:payment-gateway:delivery-status:view-transactions"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="get-quotes:view-shipments:view-quotes"/>
+  </folder>
+  <folder name="images">
+    <file name="logo80x54.png" crc="4204584565" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:how-it-works:login:register-as-a-member:dashboard_c:register-as-shipper:register-as-transporter:get-quotes:add-shipment:view-shipments:view-quotes:registration-as-shipper:registration-as-transporter:dashboard_t:payments:payment-summary:payment-success:feedback-for-your-driver:delivery-complete:payment-gateway:transaction-failed:feedback-recorded!:delivery-failed:quote-rejected:payment-failed"/>
+    <file name="logo.png" crc="4129693633" seo="true" ref="index"/>
+    <file name="004-animal-paw-print.svg" crc="66509353" seo="true" ref="index"/>
+    <file name="004-animal-paw-print_poster_.png" crc="306969468" ref="index"/>
+    <file name="003-delivery-package.svg" crc="3772103072" seo="true" ref="index"/>
+    <file name="003-delivery-package_poster_.png" crc="4086852403" ref="index"/>
+    <file name="002-car.svg" crc="3859025056" seo="true" ref="index"/>
+    <file name="002-car_poster_.png" crc="4293077575" ref="index"/>
+    <file name="001-washing-machine-with-dots.svg" crc="4206635939" seo="true" ref="index"/>
+    <file name="001-washing-machine-with-dots_poster_.png" crc="384926383" ref="index"/>
+    <file name="review 1.jpg" crc="4140237172" seo="true" ref="index"/>
+    <file name="review 3.jpg" crc="3942169878" seo="true" ref="index"/>
+    <file name="review 2.jpg" crc="230706192" seo="true" ref="index"/>
+    <file name="review 4.jpg" crc="4099354344" seo="true" ref="index"/>
+    <file name="review 5.jpg" crc="3961961009" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="5phone.png" crc="4090580968" seo="true" ref="index"/>
+    <file name="real-google-play-badge-copy.png" crc="393191312" seo="true" ref="index"/>
+    <file name="download-on-the-app-store.png" crc="283041833" seo="true" ref="index"/>
+    <file name="004-packing.svg" crc="4109864632" seo="true" ref="how-it-works"/>
+    <file name="004-packing_poster_.png" crc="69530969" ref="how-it-works"/>
+    <file name="003-delivery-man.svg" crc="523371104" seo="true" ref="how-it-works"/>
+    <file name="003-delivery-man_poster_.png" crc="4259766588" ref="how-it-works"/>
+    <file name="002-smartphone.svg" crc="4204072538" seo="true" ref="how-it-works"/>
+    <file name="002-smartphone_poster_.png" crc="4204259058" ref="how-it-works"/>
+    <file name="001-rating_poster_.png" crc="4258367250" seo="true" ref="how-it-works"/>
+    <file name="up-arrow (1)_poster_.png" crc="64815633" seo="true" ref="how-it-works"/>
+    <file name="delivery-truck.png" crc="306345193" seo="true" ref="how-it-works"/>
+    <file name="badge.png" crc="507813118" seo="true" ref="how-it-works"/>
+    <file name="thumb-up256x209.png" crc="395700923" seo="true" ref="how-it-works"/>
+    <file name="delivery.png" crc="3886294062" seo="true" ref="how-it-works:get-quotes:view-shipments:view-quotes"/>
+    <file name="delivery-companies.png" crc="105495708" seo="true" ref="how-it-works:dashboard_c"/>
+    <file name="star-bus.png" crc="4261254101" seo="true" ref="how-it-works"/>
+    <file name="trust-and-safety.png" crc="209295840" seo="true" ref="how-it-works"/>
+    <file name="bg login.jpg" crc="3969143445" ref="login"/>
+    <file name="container-1611490_1920.jpg" crc="400005483" ref="register-as-a-member:registration-as-shipper:registration-as-transporter"/>
+    <file name="layers.png" crc="455489481" seo="true" ref="dashboard_c:get-quotes:add-shipment:view-shipments:view-quotes:dashboard_t:pay-your-driver:profile-settings:view-transaction:account-settings:delivery-status:view-transactions"/>
+    <file name="003-truck.png" crc="391564735" seo="true" ref="dashboard_c:dashboard_t"/>
+    <file name="account settings.png" crc="4146933698" seo="true" ref="dashboard_c:dashboard_t"/>
+    <file name="add new shipment.png" crc="47160427" seo="true" ref="dashboard_c:dashboard_t"/>
+    <file name="shopping-cart.png" crc="430373770" seo="true" ref="get-quotes"/>
+    <file name="shopping-cart2.png" crc="430373770" seo="true" ref="get-quotes"/>
+    <file name="error.png" crc="21638361" seo="true" ref="view-shipments:view-quotes:profile-settings"/>
+    <file name="002-success.png" crc="4213191178" seo="true" ref="view-quotes"/>
+    <file name="funnel.png" crc="4008359864" seo="true" ref="view-quotes"/>
+    <file name="pasted image 512x512.jpg" crc="4176992101" seo="true" ref="dashboard_t"/>
+    <file name="002-transaction.png" crc="4213576512" seo="true" ref="dashboard_t"/>
+    <file name="package delivered.png" crc="29782925" seo="true" ref="payments:delivery-complete"/>
+    <file name="payment status_pass.png" crc="493094068" seo="true" ref="payment-summary:payment-success"/>
+    <file name="screenshot (43) small.jpg" crc="32844416" seo="true" ref="delivery-complete:payment-gateway:transaction-failed"/>
+    <file name="pasted image 213x42.jpg" crc="162760177" seo="true" ref="delivery-complete:payment-gateway:transaction-failed"/>
+    <file name="hand_payment_credit card470x365.png" crc="4126399435" seo="true" ref="payment-gateway"/>
+    <file name="hand_payment_debit card470x365.png" crc="509589489" seo="true" ref="payment-gateway"/>
+    <file name="payment status_fail.png" crc="73771274" seo="true" ref="transaction-failed:payment-failed"/>
+    <file name="thumb-up-crop-u27511.png" crc="4070053088" ref="feedback-recorded!"/>
+    <file name="package delivery fail.png" crc="316740048" seo="true" ref="delivery-failed:quote-rejected"/>
+  </folder>
+  <file name="index.html" crc="29412404" seo="true" mt="1524568854088" redirect="true"/>
+  <file name="about.html" crc="4229072874" seo="true" mt="1524370628300" redirect="true"/>
+  <file name="how-it-works.html" crc="4116278946" seo="true" mt="1524582837802" redirect="true"/>
+  <file name="login.html" crc="102070096" seo="true" mt="1524471823641" redirect="true"/>
+  <file name="register-as-a-member.html" crc="466561562" seo="true" mt="1524565444672" redirect="true"/>
+  <file name="dashboard_c.html" crc="459580313" seo="true" mt="1524577337457" redirect="true"/>
+  <file name="track.html" crc="3950614638" seo="true" mt="1524370628300" redirect="true"/>
+  <file name="register-as-shipper.html" crc="4024439340" seo="true" mt="1524574530133" redirect="true"/>
+  <file name="register-as-transporter.html" crc="3876216459" seo="true" mt="1524577118647" redirect="true"/>
+  <file name="get-quotes.html" crc="372756979" seo="true" mt="1524582838001" redirect="true"/>
+  <file name="add-shipment.html" crc="4025565069" seo="true" mt="1524577337457" redirect="true"/>
+  <file name="view-shipments.html" crc="221061901" seo="true" mt="1524582837871" redirect="true"/>
+  <file name="view-quotes.html" crc="16172183" seo="true" mt="1524582837888" redirect="true"/>
+  <file name="quotes-cart.html" crc="4130873897" seo="true" mt="1524543192331" redirect="true"/>
+  <file name="registration-as-shipper.html" crc="170694685" seo="true" mt="1524565848191" redirect="true"/>
+  <file name="registration-as-transporter.html" crc="4247670400" seo="true" mt="1524565737764" redirect="true"/>
+  <file name="dashboard_t.html" crc="253783635" seo="true" mt="1524583131144" redirect="true"/>
+  <file name="payments.html" crc="4235815465" seo="true" mt="1524565338394" redirect="true"/>
+  <file name="pay-your-driver.html" crc="4059000611" seo="true" mt="1524577337457" redirect="true"/>
+  <file name="profile-settings.html" crc="4072965679" seo="true" mt="1524577337457" redirect="true"/>
+  <file name="view-transaction.html" crc="466117581" seo="true" mt="1524543344276" redirect="true"/>
+  <file name="account-settings.html" crc="4270101617" seo="true" mt="1524555905550" redirect="true"/>
+  <file name="payment-summary.html" crc="3836304573" seo="true" mt="1524582837574" redirect="true"/>
+  <file name="payment-success.html" crc="378765808" seo="true" mt="1524582837619" redirect="true"/>
+  <file name="feedback-website.html" crc="3833977742" seo="true" mt="1524473827936" redirect="true"/>
+  <file name="feedback-for-your-driver.html" crc="4127387404" seo="true" mt="1524485254310" redirect="true"/>
+  <file name="delivery-complete.html" crc="3766775749" seo="true" mt="1524537694724" redirect="true"/>
+  <file name="shipments-summary.html" crc="4208692636" seo="true" mt="1524576576032" redirect="true"/>
+  <file name="payment-gateway.html" crc="4100510700" seo="true" mt="1524579918756" redirect="true"/>
+  <file name="transaction-failed.html" crc="36977579" seo="true" mt="1524582837446" redirect="true"/>
+  <file name="feedback-recorded!.html" crc="4033241199" seo="true" mt="1524472797654" redirect="true"/>
+  <file name="delivery-status.html" crc="3929019896" seo="true" mt="1524577337457" redirect="true"/>
+  <file name="delivery-failed.html" crc="4163555414" seo="true" mt="1524564389657" redirect="true"/>
+  <file name="view-transactions.html" crc="3835971210" seo="true" mt="1524577337457" redirect="true"/>
+  <file name="quote-rejected.html" crc="4036893633" seo="true" mt="1524565326885" redirect="true"/>
+  <file name="payment-failed.html" crc="505258097" seo="true" mt="1524582837473" redirect="true"/>
+  <file name="tracking-your-consignment.html" crc="198113910" seo="true" mt="1524555881763" redirect="false"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U2102">
+        <breakpoint uid="U83" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="NOAC Master" master="U62" uid="U2102">
+        <breakpoint uid="U2133" maxwidth="1440" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="1440" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="About" filename="about.html" muse_href="page:U109" master="U2102">
+        <breakpoint uid="U99" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <page name="How It Works" filename="how-it-works.html" muse_href="page:U121" master="U2102">
+        <breakpoint uid="U111" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Login" filename="login.html" muse_href="page:U133" master="U272">
+        <breakpoint uid="U123" maxwidth="1440" minwidth="0" squishy="true"/>
+        <breakpoint uid="U2814" maxwidth="1465" minwidth="1441" squishy="true"/>
+      </page>
+      <masterPage name="Login" master="U62" uid="U272">
+        <breakpoint uid="U273" maxwidth="1440" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Register as a member" filename="register-as-a-member.html" muse_href="page:U145" master="U282">
+        <breakpoint uid="U135" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Register" master="U62" uid="U282">
+        <breakpoint uid="U283" maxwidth="1440" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Dashboard_C" filename="dashboard_c.html" muse_href="page:U157" master="U242">
+        <breakpoint uid="U147" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Dash_C" master="U25856" uid="U242">
+        <breakpoint uid="U243" maxwidth="1366" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="Profile" master="U62" uid="U25856">
+        <breakpoint uid="U25857" maxwidth="1366" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Track" filename="track.html" muse_href="page:U181" master="U2102">
+        <breakpoint uid="U171" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Register as Shipper" filename="register-as-shipper.html" muse_href="page:U193" master="U292">
+        <breakpoint uid="U183" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Register_Level2" master="U2102" uid="U292">
+        <breakpoint uid="U293" maxwidth="1440" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Register as Transporter" filename="register-as-transporter.html" muse_href="page:U205" master="U292">
+        <breakpoint uid="U195" maxwidth="1440" minwidth="0" squishy="true"/>
+        <breakpoint uid="U5466" maxwidth="1465" minwidth="1441" squishy="true"/>
+      </page>
+      <page name="Get Quotes" filename="get-quotes.html" muse_href="page:U6016" master="U9110">
+        <breakpoint uid="U5994" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="Dash_T" master="U25856" uid="U9110">
+        <breakpoint uid="U9111" maxwidth="1366" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Add Shipment" filename="add-shipment.html" muse_href="page:U7391" master="U242">
+        <breakpoint uid="U7369" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="View Shipments" filename="view-shipments.html" muse_href="page:U8945" master="U242">
+        <breakpoint uid="U8923" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="View Quotes" filename="view-quotes.html" muse_href="page:U10404" master="U9110">
+        <breakpoint uid="U10382" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Quotes Cart" filename="quotes-cart.html" muse_href="page:U11690" master="U62">
+        <breakpoint uid="U11668" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Registration as Shipper" filename="registration-as-shipper.html" muse_href="page:U15008" master="U282">
+        <breakpoint uid="U14986" maxwidth="1360" minwidth="0" squishy="true"/>
+        <breakpoint uid="U15757" maxwidth="1462" minwidth="1361" squishy="true"/>
+      </page>
+      <page name="Registration as Transporter" filename="registration-as-transporter.html" muse_href="page:U15032" master="U282">
+        <breakpoint uid="U15010" maxwidth="1440" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Dashboard_T" filename="dashboard_t.html" muse_href="page:U20386" master="U9110">
+        <breakpoint uid="U20317" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Payments" filename="payments.html" muse_href="page:U22941" master="U62">
+        <breakpoint uid="U22919" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Pay your Driver" filename="pay-your-driver.html" muse_href="page:U22965" master="U242">
+        <breakpoint uid="U22943" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Profile Settings" filename="profile-settings.html" muse_href="page:U24191" master="U242">
+        <breakpoint uid="U24169" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="View Transaction" filename="view-transaction.html" muse_href="page:U24215" master="U9110">
+        <breakpoint uid="U24193" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Account Settings" filename="account-settings.html" muse_href="page:U24239" master="U9110">
+        <breakpoint uid="U24217" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Payment Summary" filename="payment-summary.html" muse_href="page:U24263" master="U62">
+        <breakpoint uid="U24241" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Payment Success" filename="payment-success.html" muse_href="page:U24359" master="U62">
+        <breakpoint uid="U24337" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Feedback Website" filename="feedback-website.html" muse_href="page:U24455" master="U62">
+        <breakpoint uid="U24433" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Feedback for your driver" filename="feedback-for-your-driver.html" muse_href="page:U24479" master="U62">
+        <breakpoint uid="U24457" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Delivery Complete" filename="delivery-complete.html" muse_href="page:U24503" master="U62">
+        <breakpoint uid="U24481" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Shipments Summary" filename="shipments-summary.html" muse_href="page:U24527" master="U62">
+        <breakpoint uid="U24505" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Payment Gateway" filename="payment-gateway.html" muse_href="page:U25360" master="U62">
+        <breakpoint uid="U28411" maxwidth="720" minwidth="0" squishy="true"/>
+        <breakpoint uid="U25338" maxwidth="1366" minwidth="721" squishy="true"/>
+      </page>
+      <page name="Transaction Failed" filename="transaction-failed.html" muse_href="page:U25380" master="U62">
+        <breakpoint uid="U25370" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Feedback recorded!" filename="feedback-recorded!.html" muse_href="page:U26722" master="U62">
+        <breakpoint uid="U26700" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Delivery Status" filename="delivery-status.html" muse_href="page:U27631" master="U242">
+        <breakpoint uid="U27609" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Delivery Failed" filename="delivery-failed.html" muse_href="page:U28276" master="U62">
+        <breakpoint uid="U28236" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="View Transactions" filename="view-transactions.html" muse_href="page:U28410" master="U242">
+        <breakpoint uid="U28388" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Quote Rejected" filename="quote-rejected.html" muse_href="page:U29629" master="U62">
+        <breakpoint uid="U29607" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Payment Failed" filename="payment-failed.html" muse_href="page:U29653" master="U62">
+        <breakpoint uid="U29631" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Tracking your consignment" filename="tracking-your-consignment.html" muse_href="page:U29822" master="U62">
+        <breakpoint uid="U29800" maxwidth="1366" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
