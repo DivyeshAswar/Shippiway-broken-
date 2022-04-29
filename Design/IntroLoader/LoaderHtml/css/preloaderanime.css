@@ -1,0 +1,94 @@
+/*add animation for loader*/
+
+#loader1 {
+	animation-name: part1;
+	
+}
+@keyframes part1 {
+	0% {left: 10%; top: 10%; opacity: 0;}
+	90% {opacity: 1;}
+	100% {opacity: 0; left: 42.9%; top: 41.5%;}
+}
+
+#loader2 {
+	animation-name: part2;
+}
+@keyframes part2 {
+	0% {left: 0%;top: 0%; opacity: 0;}
+	90% {opacity: 1;}
+	100% {opacity: 0; left: 43.5%; top: 32.5%;}
+}
+
+#loader3 {
+	animation-name: part3;
+}
+@keyframes part3 {
+	0% {right: 10%; top: 10%; opacity: 0;}
+	90% {opacity: 1;}
+	100% {opacity: 0; right: 46.5%; top: 41.5%;}
+}
+
+#loader4 {
+	animation-name: part4;
+}
+@keyframes part4 {
+	0% {right: 0%; top: 0%; opacity: 0;}
+	90% {opacity: 1;}
+	100% {opacity: 0; right: 47%; top: 33%;}
+}
+
+#loader5 {
+	animation-name: part5;
+	left: 42.5%;
+}
+@keyframes part5 {
+	0% {bottom: 0%; opacity: 0;}
+	90% {opacity: 1;}
+	100% {opacity: 0; bottom: 40.5%;}
+}
+
+#loader6 {
+	animation-name: part6;
+	left: 43%; top: 43%;
+}
+@keyframes part6 {
+	0% {opacity: 0;}
+	90% {opacity: 1;}
+	100%{opacity: 0;}
+}
+
+#loader7 {
+	animation-name: part7;
+	left: 44.9%;
+}
+@keyframes part7 {
+	0% {top: 0%; opacity: 0;}
+	90% {opacity: 1;}
+	100% {opacity: 0; top: 33%;}
+}
+
+.malo{
+	position: absolute;
+	z-index: 1;
+	animation-duration: 3s;
+}
+
+
+
+/* Add animation to "page content" */
+.ani-main {
+  position: relative;
+  animation-name: animatebottom;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+}
+@keyframes animatebottom { 
+  0% {bottom: -300px; opacity: 0;}
+  40% {opacity: 0.8;}
+  100% {bottom: 0px; opacity: 1;}
+}
+
+#mainpage {
+  display: none;
+  text-align: center;
+}
